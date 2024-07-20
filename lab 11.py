@@ -1,0 +1,8 @@
+print("\n********************* calculeter*********************\n")
+a=input("enter the first number =")
+b=input("enter the secount number =")
+print("the add is ",int(a) + int(b))
+print("the sub is ",int(a) - int(b))
+print("the mul is ",int(a) * int(b))
+print("the div is ",int(a) / int(b))
+print("the par is ",int(a) / int(b)*100)
